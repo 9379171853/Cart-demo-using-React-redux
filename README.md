@@ -2,6 +2,7 @@
 ```
 $ npm install -g json-server
 Then
+$ yarn
 $ yarn server
 or
 $ json-server public/db.json --port 8000
