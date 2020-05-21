@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90",
+      "title": "Samsung Series 4",
+      "description": "Samsung Series 4",
+      "availableSizes": ["Large", "Medium", "Small"],
+      "price": 10
+    },
+
+    {
+      "id": 2,
+      "sku": "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90",
+      "title": "Samsung Super 6",
+      "description": "Samsung Super 6",
+      "availableSizes": ["Large", "Medium", "Small"],
+      "price": 14.9
+    },
+
+    {
+      "id": 3,
+      "sku": "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90",
+      "title": "Samsung The Frame",
+      "description": "Samsung The Frame",
+      "availableSizes": ["Small"],
+      "price": 14.9
+    },
+
+    {
+      "id": 4,
+      "sku": "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90",
+      "title": "Thomson B9 Pro",
+      "description": "Thomson B9 Pro",
+      "availableSizes": ["Large"],
+      "price": 25.9
+    },
+
+    {
+      "id": 5,
+      "sku": "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90",
+      "title": "LG Ultra HD",
+      "description": "LG Ultra HD",
+      "availableSizes": ["Medium"],
+      "price": 10.9
+    },
+
+    {
+      "id": 6,
+      "sku": "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90",
+      "title": "Vu Ready LED TV",
+      "description": "Vu Ready LED TV",
+      "availableSizes": ["Large", "Small"],
+      "price": 49.9
+    },
+
+    {
+      "id": 7,
+      "sku": "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90",
+      "title": "Koryo Android TV",
+      "description": "Koryo Android TV",
+      "availableSizes": ["Small","Medium"],
+      "style": "Preto com listras brancas",
+      "price": 22.5
+    },
+
+    {
+      "id": 8,
+      "sku": "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90",
+      "title": "Micromax LED Smart",
+      "description": "Micromax LED Smart",
+      "availableSizes": ["Large","Medium"],
+      "style": "Azul escuro",
+      "price": 18.7
+    },
+    {
+      "id": 9,
+      "sku": "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90",
+      "title": "Micromax LED Smart",
+      "description": "Micromax LED Smart",  
+      "availableSizes": ["Large", "Small"],
+      "price": 134.9
+    }
+  ]
+}
